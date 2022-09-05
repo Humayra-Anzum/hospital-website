@@ -1,0 +1,209 @@
+header {
+    text-align: center;
+    background-color: rgb(234, 235, 236);
+}
+
+
+
+.home-top-section{
+   background-image:url(https://preview.colorlib.com/theme/medex/images/xbg_2.jpg.pagespeed.ic.UAttgbS3rM.webp);
+   height: 35em;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: 10% 1%;
+   color: white;
+}
+
+
+#navbar {
+    background-color: rgb(29, 158, 250);
+}
+
+.span {
+    color: rgb(29, 158, 250);
+}
+
+#button {
+    background-color: rgb(29, 158, 250);
+}
+
+#book-button {
+    background-color: rgb(93, 198, 64);
+    font-size: small;
+    color: white;
+}
+
+body i {
+    color: rgb(29, 158, 250);
+    background-color: white;
+    padding: 6px;
+}
+
+
+.second-part span {
+    color: rgb(29, 158, 250);
+}
+.col {
+    margin-bottom: 10px;
+    margin-right: -40px;
+}
+
+.row h6 {
+    color: rgb(160, 161, 161);
+    font-size: small;
+    padding-bottom: 14px;
+    margin-top: 6px;
+
+}
+
+.appointment-form {
+    color: rgb(29, 158, 250);
+}
+
+#form {
+    width: 80%;
+}
+
+#form h6 {
+    color: rgb(29, 158, 250);
+    text-align: center;
+    font-size: large;
+}
+
+
+#form button {
+    width: 100%;
+    border: 0;
+    background-color: rgb(93, 198, 64);
+    color: white;
+}
+
+#welcome-part {
+    background-color: rgb(249, 249, 249);
+}
+
+.third-section{
+    font-size: larger;
+}
+
+.third-text {
+    width: 100%;
+}
+
+.third-text span {
+    color: rgb(29, 158, 250);
+}
+
+.third-text p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.appointment-button {
+    border: 0;
+    color: white;
+    background-color: rgb(29, 158, 250);
+}
+.doctors-cover{
+    background-image: url(https://srishtisoft.com/wp-content/uploads/2021/09/doctor-background-with-overlay-medical.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.contact-button {
+    border: 0;
+    color: white;
+    padding: 10px;
+    background-color: rgb(93, 198, 64);
+}
+
+.doctors-cover img {
+    width: 100%;
+    filter: blur(4px);
+}
+
+.doctors-cover img {
+    width: 100%;
+    filter: blur(4px);
+}
+.doctors-cover button {
+    border: 0;
+}
+.doctors-cover {
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.seven-row p {
+    border-top: 0.2px solid rgb(162, 160, 160);
+    border-right: 0.2px solid rgb(162, 160, 160);
+    border-left: 0.2px solid rgb(162, 160, 160);
+    margin-bottom: 0;
+    padding: 19px; 
+    font-size: larger;
+    font-weight: bold;
+}
+
+.seven-row {
+    width: 20%;
+}
+.seven-row i {
+    text-align: justify;
+}
+
+.fourth-section h2 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+
+.fourth-section span {
+    color: rgb(29, 158, 250);
+}
+
+.fourth-section img {
+    width: 100%;
+    height: 79%;
+    align-items: center;
+}
+
+#last-row {
+    border-bottom: 0.2px solid rgb(162, 160, 160);
+}
+
+.fourth-flex {
+    display: flex;
+}
+
+
+.home-top-section{
+    height: 35em;
+}
+.section-right{
+padding-top: 5em;
+}
+.neurology h2{
+    text-align: center;
+}
+.neurology h5{
+    font-size: 16px;
+}
+.neurology-box{
+    border: 1px solid rgb(196, 193, 193);
+}
+.neurology-text p{
+    font-size: 12px;
+
+}
+.card{
+    background-color: rgb(234, 228, 228);
+}
+.card img{
+height: 160px;
+width: 160px;
+border: 4px solid rgb(234, 228, 228);
+display: block;
+background-position: top center;
+ }
+
