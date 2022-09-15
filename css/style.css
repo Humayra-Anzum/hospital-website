@@ -43,10 +43,10 @@ body i {
 .second-part span {
     color: rgb(29, 158, 250);
 }
-.col {
+/* .col {
     margin-bottom: 10px;
     margin-right: -40px;
-}
+} */
 
 .row h6 {
     color: rgb(160, 161, 161);
